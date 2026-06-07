@@ -61,4 +61,4 @@ Future Enhancements
 * Interactive Drill-Through Reports
 
 Note
-This is a prototype dashboard created using dummy data for learning, planning, and demonstration purposes. The final version will be connected to live SQL Server data and enhanced with additional business logic, automation, and analytics capabilities.
+This is a prototype dashboard created using dummy data for learning, planning, and demonstration purposes. The final version will be connected to live SQL Server data and enhanced with additional business logic, automation,analytics capabilities.
